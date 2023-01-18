@@ -54,4 +54,5 @@
 ---
 
 > Kar ediyorsa eğer; her bilanço hisseyi biraz daha ucuzlatır.
+
 > Özkaynak farkına bakılmalı, bu yıl eğer artmışsa, bu hisse yükselir gider, piyasa bunu eninde sonunda yükseltir götürür.
