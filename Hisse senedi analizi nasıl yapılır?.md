@@ -50,7 +50,7 @@ F/K = Fiyat / Kazanç = 250.000₺ / 10.000 = 25
 #### İyi yönetilen bir şirket
 Öz sermaye kârlılığı: öz sermaye getirisi, bir işletmenin öz sermaye ile ilgili kârlılığının bir ölçüsüdür. Özsermaye, tüm varlıklar alınarak ve tüm yükümlülükler çıkarılarak hesaplanabileceğinden, ROE, varlıklardan yükümlülükler çıkarılarak elde edilen getiri olarak da düşünülebilir.
 
-Warren Buffett: Bu oranın yükselmesi veya düşmesi, şirketlerin yönetim performanslarını ölmede en önemli göstergedir.
+Warren Buffett: Bu oranın yükselmesi veya düşmesi, şirketlerin yönetim performanslarını ölçmede en önemli göstergedir.
 
 1. HalkYatırım > Analizim > Hisse Senedi / Skor Kart > Arama Kutusu
 2. Skor Kart Butonu
