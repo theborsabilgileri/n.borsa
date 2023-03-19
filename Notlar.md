@@ -51,6 +51,35 @@
 #### EGEEN
 
 
+#### ENJSA
+* İyi
+
+
+#### BURVA
+* kârdaSat
+
+
+#### BMSCH
+* Yatırım
+
+
+#### GEDZA
+* Yatırım
+
+
+#### CMBTN
+* Yatırım
+
+
+#### EUREN
+* Yatırım N
+
+
+#### ARCLK
+* 2seneye500
+
+
+
 ---
 
 > Kar ediyorsa eğer; her bilanço hisseyi biraz daha ucuzlatır.
