@@ -15,14 +15,14 @@ Defter Değeri = DD
 
 #### PD/DD
 PD/DD = 50.000₺ / 250.000₺ = 5
-- Bu ordan ne kadar az olursa o kadar iyi.
+- Bu oran ne kadar az olursa o kadar iyi.
 
 #### F/K
 Fiyat = F
 Kazanç ya da Kâr = K
 
 F/K = Fiyat / Kazanç = 250.000₺ / 10.000 = 25
-- Bu ordan ne kadar az olursa o kadar iyi.
+- Bu oran ne kadar az olursa o kadar iyi.
 - 25 yılda kendini amorti ediyor.
 
 #### F/K ve PD/DD Oranlarını görmek
